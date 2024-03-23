@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-23T03:48:01 GMT-04:00" name="Suite" finished-at="2024-03-23T03:48:17 GMT-04:00" duration-ms="16793">
+    <groups>
+    </groups>
+    <test started-at="2024-03-23T03:48:01 GMT-04:00" name="Default Test" finished-at="2024-03-23T03:48:17 GMT-04:00" duration-ms="16793">
+      <class name="testNGFramework.ExtentReportE1">
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:testNGFramework.ExtentReportE1@7b9a4292]" started-at="2024-03-23T03:48:01 GMT-04:00" name="driverSetup" finished-at="2024-03-23T03:48:12 GMT-04:00" duration-ms="11496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="loginPage()[pri:1, instance:testNGFramework.ExtentReportE1@7b9a4292]" started-at="2024-03-23T03:48:12 GMT-04:00" name="loginPage" finished-at="2024-03-23T03:48:14 GMT-04:00" duration-ms="1724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method signature="loginPage2()[pri:2, instance:testNGFramework.ExtentReportE1@7b9a4292]" started-at="2024-03-23T03:48:14 GMT-04:00" name="loginPage2" finished-at="2024-03-23T03:48:17 GMT-04:00" duration-ms="2603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage2 -->
+        <test-method is-config="true" signature="closeMethod()[pri:0, instance:testNGFramework.ExtentReportE1@7b9a4292]" started-at="2024-03-23T03:48:17 GMT-04:00" name="closeMethod" finished-at="2024-03-23T03:48:17 GMT-04:00" duration-ms="906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeMethod -->
+      </class> <!-- testNGFramework.ExtentReportE1 -->
+    </test> <!-- Default Test -->
+  </suite> <!-- Suite -->
+</testng-results>

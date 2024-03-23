@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-23T02:24:39 GMT-04:00" name="Default suite" finished-at="2024-03-23T02:24:52 GMT-04:00" duration-ms="13124">
+    <groups>
+    </groups>
+    <test started-at="2024-03-23T02:24:39 GMT-04:00" name="Default test" finished-at="2024-03-23T02:24:52 GMT-04:00" duration-ms="13124">
+      <class name="testNGFramework.POMtestNG">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testNGFramework.POMtestNG@22ff4249]" started-at="2024-03-23T02:24:39 GMT-04:00" name="beforeClass" finished-at="2024-03-23T02:24:50 GMT-04:00" duration-ms="11011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="LoginTestMethod()[pri:0, instance:testNGFramework.POMtestNG@22ff4249]" started-at="2024-03-23T02:24:50 GMT-04:00" name="LoginTestMethod" finished-at="2024-03-23T02:24:52 GMT-04:00" duration-ms="2055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testNGFramework.POMtestNG@22ff4249]" started-at="2024-03-23T02:24:52 GMT-04:00" name="afterClass" finished-at="2024-03-23T02:24:52 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testNGFramework.POMtestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
