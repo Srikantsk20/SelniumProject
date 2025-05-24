@@ -17,7 +17,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.AfterTest;
 
-public class CalendarThree {
+public class CalendarFour {
 	WebDriver driver;
   @Test
   public void f() throws InterruptedException {
